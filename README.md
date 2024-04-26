@@ -2,7 +2,7 @@
 
 
 
-Dashboard public link-https://public.tableau.com/views/Co2dash_16812140139110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Dashboard public link-https://public.tableau.com/app/profile/alivelu.vaishnavi.lingam/viz/AliveluVaishnaviLingam/Dashboard1#1
 
 
 Story public link-https://public.tableau.com/views/Co2story_16812147714600/Co2Emissionstory?:language=en-US&:display_count=n&:origin=viz_share_link
